@@ -1,8 +1,8 @@
 /* BELEN SECTION STYLING */
 #belen{
-    border: blue 10px solid;
+    border: darkslateblue 10px solid;
     max-width: 100%;
-    max-height: 500px;
+    max-height: 400px;
     padding: 10px;
     display: flex;
 }
@@ -21,4 +21,6 @@
 
 .belen-section-paragraph-wrapper{
     padding: 50px 0 0 20px;
+    max-height: 200px;
+    overflow:hidden;
 }
