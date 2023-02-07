@@ -1,3 +1,15 @@
+
+#kelsie{
+    text-align: center;
+}
+
+.black-div{
+    background-color: black;
+    color: azure;
+    width: 60%;
+    height: 60%;
+}
+
 /* BELEN SECTION STYLING */
 .img-wrapper{
     width: 200px;
