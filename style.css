@@ -29,3 +29,10 @@
     display: flex;
 
 }
+#kelsie h1{
+font-size: 100px;
+}
+#kelsie{
+    border: 15px solid green;
+    border-radius: 50px;
+}
