@@ -2,7 +2,9 @@
     text-align: center;
 }
 .bordered-section{
-    border: 2px solid yellow;
+    border: 2px solid green;
+    padding: 10px;
+    margin: 5px;
 }
 .black-div{
     background-color: black;
