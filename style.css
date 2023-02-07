@@ -1,6 +1,26 @@
+/* BELEN SECTION STYLING */
+.img-wrapper{
+    width: 200px;
+    height: 200px;
+}
+
+#top-img{
+    width: 100%;
+    height: 100%;
+    object-fit:contain;
+}
+
+.belen-section-paragraph-wrapper{
+    padding: 50px 0 0 20px;
+    max-height: 200px;
+    overflow:hidden;
+
 .bordered-section{
     border: 1px solid black;
     margin: 5px;
-    padding: 5px;
     border-radius: 5px;
+    max-width: 100%;
+    max-height: 400px;
+    padding: 10px;
+    display: flex;
 }
