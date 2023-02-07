@@ -1,5 +1,5 @@
 /* BELEN SECTION STYLING */
-#belen{
+.border-section{
     border: darkslateblue 10px solid;
     max-width: 100%;
     max-height: 400px;
