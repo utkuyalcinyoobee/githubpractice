@@ -1,6 +1,9 @@
 #kelsie{
     text-align: center;
 }
+.bordered-section{
+    border: 2px solid yellow;
+}
 .black-div{
     background-color: black;
     color: azure;
