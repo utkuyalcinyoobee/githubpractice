@@ -1,11 +1,12 @@
 #ke{
-    border: 5px dotted green;
-    color: yellow;
+    border: 5px dotted rgb(3, 73, 3);
+    color: white;
     background-color: blueviolet;
+    text-align: end;
 }
 
 #kelsie{
-    text-align: center;
+    text-align: end;
 }
 
 .black-div{
